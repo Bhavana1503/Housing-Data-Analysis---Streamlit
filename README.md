@@ -1,4 +1,4 @@
-# AMES Housing Data Analysis
+# AMES Housing Data Analysis with Streamlit
 
 * The dataset has 81 columns.
 * Firstly, we eliminate variables which are unimportant i.e., not relevant for the business.
