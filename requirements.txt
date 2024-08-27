@@ -1,0 +1,4 @@
+streamlit==1.37.1
+pandas==2.2.2
+matplotlib==3.7.1  # or the latest version
+seaborn==0.12.2
